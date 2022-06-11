@@ -2,6 +2,7 @@ import java.util.Scanner;
 
 public class Primenum {
 // some thing updated
+// again updated
 	public static void main(String[] args) {
 		
 		Scanner sc = new Scanner(System.in);
